@@ -1,4 +1,5 @@
 # Physics-Calculator
-Includes some basic physics formulas.
+Includes some basic physics formulas so run the program and you'll find out
+Enjoy!
 
-Done by: Bandaru Y.N. Sai
+Done by: Naga Sai B.Y.
